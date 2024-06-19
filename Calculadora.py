@@ -1,4 +1,4 @@
-#Este es el archivo Phyton donde mi compadre y yo trabajaremos en la calculadora
+#Este es el archivo Phyton donde mi compadre Steve y yo trabajaremos en la calculadora
 # Definición de funciones para cada operación
 
 def suma(a, b):
