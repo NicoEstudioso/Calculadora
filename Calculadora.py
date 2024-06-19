@@ -14,7 +14,7 @@ def division(a, b):
     if b != 0:
         return a / b
     else:
-        return "Error: división por cero"
+        return "como tan sacowea weon tai dividiendo por 0"
 
 
 # Función principal de la calculadora
