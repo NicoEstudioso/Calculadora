@@ -1,5 +1,5 @@
 #Este es el archivo Phyton donde mi compadre Steve y yo trabajaremos en la calculadora
-# Definición de funciones para cada operación
+
 
 def suma(a, b):
     return a + b
@@ -20,7 +20,7 @@ def division(a, b):
 # Función principal de la calculadora
 
 def calculadora():
-    print("Bienvenido a la calculadora básica")
+    print("Bienvenido a la calculadora")
 
     while True:
         print("Operaciones disponibles:")
@@ -33,7 +33,7 @@ def calculadora():
         opcion = input("Seleccione la operación que desea realizar (1/2/3/4/5): ")
 
         if opcion == '5':
-            print("Gracias por usar la calculadora. ¡Hasta luego!")
+            print("Gracias por usar la calculadora.")
             break
 
         if opcion in ('1', '2', '3', '4'):
